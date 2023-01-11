@@ -44,14 +44,14 @@ a{
 }
 
 .bg-img {
-  background-image: url("../../assets/images/Frame (1).png");
+  background-image: url("/assets/images/Frame (1).png");
   background-repeat: no-repeat;
   background-position: right;
   background-position-y: bottom;
 }
 
 .bg-img-1 {
-  background-image: url("../../assets/images/Frame (2).png");
+  background-image: url("/assets/images/Frame (2).png");
   background-repeat: no-repeat;
   background-position: bottom;
   background-position-x: left;
@@ -59,20 +59,20 @@ a{
 }
 
 .bg-img-2 {
-  background-image: url("../../assets/images/Untitled design 1.png");
+  background-image: url("/assets/images/Untitled design 1.png");
   background-repeat: no-repeat;
   background-position: right;
   background-position-y: top
 }
 
 .bg-img-3 {
-  background-image: url("../../assets/images/Asset 1 1.png");
+  background-image: url("/assets/images/Asset 1 1.png");
   background-repeat: no-repeat;
   background-size: 100%;
 }
 
 .bg-img-4 {
-  background-image: url("../../assets/images/Ellipse 125.png");
+  background-image: url("/assets/images/Ellipse 125.png");
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -99,7 +99,7 @@ a{
   border-radius: 10px;
   margin-left: auto;
   margin-right: auto;
-  background-image: url("../../assets/images/defining 1.png");
+  background-image: url("/assets/images/defining 1.png");
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -111,7 +111,7 @@ a{
   border-radius: 10px;
   margin-left: auto;
   margin-right: auto;
-  background-image: url("../../assets/images/defining 1 (1).png");
+  background-image: url("/assets/images/defining 1 (1).png");
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -123,7 +123,7 @@ a{
   border-radius: 10px;
   margin-left: auto;
   margin-right: auto;
-  background-image: url("../../assets/images/defining 1 (2).png");
+  background-image: url("/assets/images/defining 1 (2).png");
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -135,7 +135,7 @@ a{
   border-radius: 10px;
   margin-left: auto;
   margin-right: auto;
-  background-image: url("../../assets/images/defining 1 (3).png");
+  background-image: url("/assets/images/defining 1 (3).png");
   background-repeat: no-repeat;
   background-position: center;
 }
