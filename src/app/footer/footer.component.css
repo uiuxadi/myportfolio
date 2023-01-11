@@ -1,0 +1,38 @@
+.footer{
+    background: #353442;
+    height: 271px;
+}
+.link-head{
+    margin-top: 10%;
+}
+.adi{
+    margin-top: 20%;
+    margin-left: 5%;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+}
+
+@media screen and (max-width:768px)
+{
+  .adi{
+    display: flex;
+    justify-content: center;
+  }
+  .link-head{
+    display:flex;
+    justify-content: center;
+  }
+}
+
+@media screen and (max-width:575px)
+{
+  .adi{
+    display: flex;
+    justify-content: center;
+  }
+  .link-head{
+    display:flex;
+    justify-content: center;
+  }
+}
